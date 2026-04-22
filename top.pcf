@@ -1,2 +1,24 @@
 set_io clk 35
 set_frequency clk 12
+
+
+set_io led_r 40
+set_io led_b 39
+set_io bt1 10
+set_io bt2 9
+set_io dip 6
+
+set_io seg7[0] 34
+set_io seg7[1] 31
+set_io seg7[2] 27
+set_io seg7[3] 25
+
+set_io seg7[4] 32
+set_io seg7[5] 28
+set_io seg7[6] 26
+set_io seg7[7] 23
+
+set_io bcd[0] 46
+set_io bcd[1] 44
+set_io bcd[2] 42
+set_io bcd[3] 37
